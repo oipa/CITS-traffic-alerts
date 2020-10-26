@@ -26,11 +26,12 @@ This repository includes two different image datasets that were created to devel
   
   ## Ceit - Foggy 
   Ceit-Foggy database consists of a set of 41 videos corresponding to approximately 300 km of driving through the Basque Country and Segovia (Spain). In total 4480 frames have been extracted and labelled in 5 categories depending on the general weather condition: 
-  - sunny, 
-  - cloudy, 
-  - light fog, 
+  - sunny 
+  - cloudy
+  - light fog 
   - moderate fog  
-  - dense fog. 
+  - dense fog
+  
   Additionally, in some videos, if there was also rain or it was a dawn/dusk, this has also been specified. As for Ceit-TSR database, these images were also recorded using different mobile phone and on-board cameras located on the dashboard. It is worth mentioning that these annotations just classify the general condition of the images, however, especially for long tracks, these conditions could change during the video.
   
    ![alt text](https://github.com/oipa/CITS-traffic-alerts/blob/main/Ceit-Foggy-dataset.png?raw=true)
