@@ -24,6 +24,7 @@ This repository includes two different image datasets that were created to devel
   
   *If you are going to use this dataset please cite our paper*
   Iparraguirre, O.; Amundarain, A.; Brazalez, A.; Borro, D. Sensors on the Move: Onboard Camera-Based Real-Time Traffic Alerts Paving the Way for Cooperative Roads. Sensors  2021, 21, 1254. https://doi.org/10.3390/s21041254
+  
   Full text available in https://www.mdpi.com/1424-8220/21/4/1254/htm
   
   ## Ceit - Foggy 
@@ -40,4 +41,5 @@ This repository includes two different image datasets that were created to devel
   
    *If you are going to use this dataset please cite our paper*
    Iparraguirre, O.; Amundarain, A.; Brazalez, A.; Borro, D. Sensors on the Move: Onboard Camera-Based Real-Time Traffic Alerts Paving the Way for Cooperative Roads. Sensors 2021, 21, 1254. https://doi.org/10.3390/s21041254
+   
    Full text available in https://www.mdpi.com/1424-8220/21/4/1254/htm
