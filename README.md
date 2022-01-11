@@ -22,7 +22,9 @@ This repository includes two different image datasets that were created to devel
   
   ![alt text](https://github.com/oipa/CITS-traffic-alerts/blob/main/Ceit-TSR-dataset.jpg?raw=true)
   
-  *If you are going to use this dataset please cite our paper ....*
+  *If you are going to use this dataset please cite our paper*
+  Iparraguirre, O.; Amundarain, A.; Brazalez, A.; Borro, D. Sensors on the Move: Onboard Camera-Based Real-Time Traffic Alerts Paving the Way for Cooperative Roads. Sensors  2021, 21, 1254. https://doi.org/10.3390/s21041254
+  https://www.mdpi.com/1424-8220/21/4/1254/htm
   
   ## Ceit - Foggy 
   Ceit-Foggy database consists of a set of 41 videos corresponding to approximately 300 km of driving through the Basque Country and Segovia (Spain). In total 4480 frames have been extracted and labelled in 5 categories depending on the general weather condition: 
@@ -36,4 +38,6 @@ This repository includes two different image datasets that were created to devel
   
    ![alt text](https://github.com/oipa/CITS-traffic-alerts/blob/main/Ceit-Foggy-dataset.png?raw=true)
   
-   *If you are going to use this dataset please cite our paper ....*
+   *If you are going to use this dataset please cite our paper*
+   Iparraguirre, O.; Amundarain, A.; Brazalez, A.; Borro, D. Sensors on the Move: Onboard Camera-Based Real-Time Traffic Alerts Paving the Way for Cooperative Roads. Sensors 2021, 21, 1254. https://doi.org/10.3390/s21041254
+   https://www.mdpi.com/1424-8220/21/4/1254/htm
